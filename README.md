@@ -1,4 +1,4 @@
-# 🏝️ Danylo's Zoo Island Portfolio
+# 🏝️ Zoo Island Portfolio
 
 A 3D interactive portfolio built with **Next.js** and **Three.js** — each zoo exhibit represents a career milestone with themed animals.
 
