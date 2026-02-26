@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Danylo Bilous — Zoo Island Portfolio",
+  title: "Liam Thompson — Zoo Island Portfolio",
   description:
     "Senior Full Stack & Mobile Engineer with 7+ years of experience. Explore my career through a 3D zoo island experience.",
   keywords: [
@@ -13,10 +13,10 @@ export const metadata = {
     "Node.js",
     "Django",
     "Portfolio",
-    "Danylo Bilous",
+    "Liam Thompson",
   ],
   openGraph: {
-    title: "Danylo Bilous — Zoo Island Portfolio",
+    title: "Liam Thompson — Zoo Island Portfolio",
     description:
       "A 3D portfolio experience — each exhibit tells the story of a career milestone.",
     type: "website",

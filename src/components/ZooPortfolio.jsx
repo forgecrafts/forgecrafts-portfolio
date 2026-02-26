@@ -2,7 +2,7 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import * as THREE from "three";
 
 const PROFILE = {
-  name: "Danylo Bilous",
+  name: "Liam Thompson",
   title: "Senior Full Stack & Mobile Engineer",
   summary:
     "Senior Full Stack & Mobile Engineer with 7+ years of experience designing, building, and scaling production systems used by over 1 million users. Operates across the full engineering stack — architecting backend APIs, owning cloud infrastructure and DevOps pipelines, shipping high-performance React Native mobile applications for iOS and Android, and delivering polished, scalable web frontends. Proven track record leading 7-person engineering teams, eliminating performance bottlenecks, reducing infrastructure costs, and shipping complex SaaS platforms, CRMs, mobile apps, and e-commerce systems.",
@@ -367,7 +367,7 @@ export default function ZooPortfolio() {
           <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
             <div style={{ width: "40px", height: "40px", borderRadius: "12px", background: "linear-gradient(135deg, #5B8DEF, #7C6EE6)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "18px", fontWeight: 800, color: "#fff" }}>D</div>
             <div>
-              <div style={{ color: "#fff", fontWeight: 700, fontSize: "16px", lineHeight: 1.2 }}>Danylo Bilous</div>
+              <div style={{ color: "#fff", fontWeight: 700, fontSize: "16px", lineHeight: 1.2 }}>Liam Thompson</div>
               <div style={{ color: "#5a6d8a", fontSize: "11px", letterSpacing: "1.5px", textTransform: "uppercase" }}>Senior Full Stack Engineer · 7+ yrs</div>
             </div>
           </div>
