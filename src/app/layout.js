@@ -3,9 +3,11 @@ import "./globals.css";
 export const metadata = {
   title: "Danylo Bilous — Zoo Island Portfolio",
   description:
-    "Senior Full Stack Engineer with 7+ years of experience. Explore my career through a 3D zoo island experience.",
+    "Senior Full Stack & Mobile Engineer with 7+ years of experience. Explore my career through a 3D zoo island experience.",
   keywords: [
     "Full Stack Developer",
+    "Mobile Engineer",
+    "React Native",
     "React",
     "Next.js",
     "Node.js",
